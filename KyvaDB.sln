@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KyvaDB", "KyvaDB.csproj", "{F635C699-CB80-41F3-AC2C-E1B7856FEB81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F635C699-CB80-41F3-AC2C-E1B7856FEB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F635C699-CB80-41F3-AC2C-E1B7856FEB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F635C699-CB80-41F3-AC2C-E1B7856FEB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F635C699-CB80-41F3-AC2C-E1B7856FEB81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12340766-0312-4881-B051-0DD551D9D36F}
+	EndGlobalSection
+EndGlobal
